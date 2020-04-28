@@ -6,3 +6,5 @@ output
 repo
 annotations
 val2017
+venv
+requirements.txt
